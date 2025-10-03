@@ -39,7 +39,7 @@ A note here is that this is a dark-mode inspired site, so the background will al
 - Centered text with beige text
 - below the header will a be a quick summary of the content below. It will be white
 
-![Header](https://github.com/FlyCode30/cst_3106_labs/tree/lab_4/images/header.png)
+![Header](https://github.com/FlyCode30/cst_3106_labs/blob/lab_4/images/header.png)
 
 **Navigation**
 
@@ -47,7 +47,7 @@ A note here is that this is a dark-mode inspired site, so the background will al
 
 - right aligned, beige text
 
-![Main Nav Bar](https://github.com/FlyCode30/cst_3106_labs/tree/lab_4/images/nav_bar_main.png)
+![Main Nav Bar](https://github.com/FlyCode30/cst_3106_labs/blob/lab_4/images/nav_bar_main.png)
 
 2. Secondary nav bar
 
@@ -56,7 +56,7 @@ A note here is that this is a dark-mode inspired site, so the background will al
 - beige text
 - used for paths related to content (ex. Home/projects/Yatzy)
 
-![Secondary Nav Bar](https://github.com/FlyCode30/cst_3106_labs/tree/lab_4/images/nav_bar_second.png)
+![Secondary Nav Bar](https://github.com/FlyCode30/cst_3106_labs/blob/lab_4/images/nav_bar_second.png)
 
 **Content**
 
@@ -64,14 +64,14 @@ A note here is that this is a dark-mode inspired site, so the background will al
 - is below secondary nav bar
 - design will vary depending on the content
 
-![Content](https://github.com/FlyCode30/cst_3106_labs/tree/lab_4/images/content.png)
+![Content](https://github.com/FlyCode30/cst_3106_labs/blob/lab_4/images/content.png)
 
 **Footer**
 
 - a header with name that is beige and centered
 - below that is a series of links to my social media handles and contacts (LinkedIn, Emaail)
 
-![Footer](https://github.com/FlyCode30/cst_3106_labs/tree/lab_4/images/footer.png)
+![Footer](https://github.com/FlyCode30/cst_3106_labs/blob/lab_4/images/footer.png)
 
 *** Conclusion
 
