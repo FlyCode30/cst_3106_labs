@@ -64,7 +64,7 @@ A note here is that this is a dark-mode inspired site, so the background will al
 - is below secondary nav bar
 - design will vary depending on the content
 
-![Content](https://github.com/FlyCode30/cst_3106_labs/tree/lab_4/images/content.png)
+![Content](https://github.com/FlyCode30/cst_3106_labs/tree/lab_4/images/content.png](https://github.com/FlyCode30/cst_3106_labs/blob/lab_4/images/content.png)
 
 **Footer**
 
