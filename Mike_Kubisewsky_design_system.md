@@ -35,3 +35,33 @@ nav-font: Poppins
 A note here is that this is a dark-mode inspired site, so the background will always be some version of bloack unless otherwise stated
 
 **Header**
+
+- Centered text with beige text
+- below the header will a be a quick summary of the content below. It will be white
+
+**Navigation**
+
+1. Main nav bar
+
+- right aligned, beige text
+
+2. Secondary nav bar
+
+- below header, separating header from content
+- slightly lighter black background
+- beige text
+- used for paths related to content (ex. Home/projects/Yatzy)
+
+**Content**
+
+- all main text content will be white
+- is below secondary nav bar
+- design will vary depending on the content
+
+**Footer**
+
+- a header with name that is beige and centered
+- below that is a series of links to my social media handles and contacts (LinkedIn, Emaail)
+
+  
+
