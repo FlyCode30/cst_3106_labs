@@ -73,7 +73,7 @@ A note here is that this is a dark-mode inspired site, so the background will al
 
 ![Footer](https://github.com/FlyCode30/cst_3106_labs/blob/lab_4/images/footer.png)
 
-***Conclusion
+###Conclusion
 
 Overall, the aim of this design was to go with something that is minimal and easy to navigate. A dark theme was choosen because it is a more modern design due to it's easiness on the eyes, better battery life for mobile devices, and it's overall user experience.  
   
