@@ -39,6 +39,8 @@ A note here is that this is a dark-mode inspired site, so the background will al
 - Centered text with beige text
 - below the header will a be a quick summary of the content below. It will be white
 
+![Header](
+
 **Navigation**
 
 1. Main nav bar
@@ -63,5 +65,8 @@ A note here is that this is a dark-mode inspired site, so the background will al
 - a header with name that is beige and centered
 - below that is a series of links to my social media handles and contacts (LinkedIn, Emaail)
 
+*** Conclusion
+
+Overall, the aim of this design was to go with something that is minimal and easy to navigate. A dark theme was choosen because it is a more modern design due to it's easiness on the eyes, better battery life for mobile devices, and it's overall user experience.  
   
 
