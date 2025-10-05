@@ -1,6 +1,6 @@
 # Design System Documentation for Michael Kubisewsky's Yahtzee Game
 
-## 1. Overall game logic/rules and primary varaibles used for code
+## 1. Overall game logic, rules and primary varaibles used for code
 
 Yatzy is a game in which players roll 5 dice in order to get certain combinations of numbers and accumlate the highest possible score based on those combinations. After the 1st and 2nd roll, players may decide to keep their dice till the end of the turn or roll them again.
 In order to create the require code for this game, a modular approach was used to organize the code. This documentation will go over those modules used and an overflow of the game flow that the code creates.
