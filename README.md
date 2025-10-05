@@ -28,7 +28,7 @@ Bottom Scores: Based on rolled combinations
 - A held array which determines which dice the player wants to keep. 
 - A roll count that determines how many times the player has rolled
 - Temporary scores. This represents temporary scores the player has at any given time. These scores do no carry on past 1 roll. This is used to help display possible scores the player can choose from at the end of a turn.
-Committed scores. These scores represent the scores a player keeps after the end of a turn. These are the ones used to determine total scores
+- Committed scores. These scores represent the scores a player keeps after the end of a turn. These are the ones used to determine total scores
 Array counter: This is an array that determines how many of each number a player has. So 1, 1, 3, 4, 6 would be 2, 0, 1, 1, 0, 1. This is used to calculate scores for the combinations.
 
 
